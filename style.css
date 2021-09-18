@@ -24,7 +24,10 @@ body, main, section, div, h3 {
 }
 main {
     margin-top: 46.375px;
-    padding: 6vh;
+    padding-top: 6vh;
+    padding-bottom: 6vh;
+    padding-left: 10vw;
+    padding-right: 10vw;
     background-color: var(--gray);
 }
 ul {
